@@ -1,0 +1,13 @@
+Add-Migration
+Update-Database
+
+{
+  "email": "Admin@example.com",
+  "password": "Password@123",
+  "firstName": "Admin",
+  "lastName": "User",
+  "phoneNumber": "0755555555",
+  "roles": [
+    "User"
+  ]
+}
